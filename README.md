@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasterHermit
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web development & DSA
+- 🌱 I’m currently learning javascript & practicing DSA
 - 💞️ I’m looking to collaborate on js and react.js
 - 📫 you can mail me to collab on rajpruthwi5534.ps@gmail.com 
 
